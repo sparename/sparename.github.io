@@ -1,37 +1,40 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/sparename/sparename.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+# **2021年度总结 展望2022**
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# 前言👧
 
-### Markdown
+第一次写年度总结😀😀，为什么2021年都过去一个多月了才写了，其实早就想写了，只不过自己太懒了😪，记得一个月前看到一个普通双非写的一篇文章，感觉他的经历跟我的有很多相似之处🤩，但是他比我优秀多了，也是给了我很大的鼓励，于是在今天19岁生日写一下年度总结。
+***
+# 大学前篇💗
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+在上大学前，从未接触从计算机方面知识，纯小白，高考成绩出来，跟我想象中的出入有的大，当时高考的并不理想，没有什么学校可填，本来从小到大的愿望就是去当一名教师🤔，当时我们县城有一个政策，出于各种原因，也是不甘心，就没有填报，看见计算机专业挺热门的，当时的理解的学计算机就是像黑客一样，于是本着这份心态报考了这所学校的大数据专业😫，当时报考前简单查了一下就填上去了，后来知道学校跟我想象中的差距太大，就后悔了，心里乞讨这不要被第一志愿录取😥，但是很不幸，没有复读的勇气，就这样上了大学。
+***
+# 上大学后💜
 
-```markdown
-Syntax highlighted code block
+反正已经改变不了事情，不如好好学习，立下了各种各样的flag😌，但是真正到现在做到的也没有几个，刚开始的时候还写日记，来到这所学校，很不适应，从环境到社交到学习，各种不适应，不过也一个人适应过来了，大一上册我一个纯小白，甚至连电脑的基本操作都不会，下载软件，卸载软件，甚至当时怎么连接适配器都不会，还是室友告诉我的，因为不会电脑操作，当时连去百度的意识都没有，因此也吃过很多亏，比如买电脑的时候就被骗了，也请教过别的同学，但是自己没有经历过的东西，不愿相信吧，报考志愿的时候也不愿意去相信老一辈的建议，有些事情也许只有自己经历过才知道吧，我也是那个时候明白高中我物理老师告诉我们的一句话，他说不会给我们建议什么的，有的路只有自己走过才知道，人生哪里没有弯路呀。学习c语言，那时候很痛苦，跟很多普通人一样，想过转专业，但是又不坚定，还好当时有个学长一直帮助我。大一上册很多时间都是在活动中度过的，参加各种各样的面试和活动，现在也很后悔浪费那么多时间，不如好好学习了，什么学生会，现在我也是看淡了，感觉学生会里面全是利益🤔，各个自私自利，以前想要改变，但是发现自己能力有限，也不想掺和了，经历了整个大一上册，感觉自己的实力确实跟其他人比有很大差距，什么电脑操作都不会，越学深越感觉学计算机的难，所以自己在寒假期间也是没有松懈，疯狂的补自己的弱点，从最基础的开始，我也打算再复习一下c语言，补c++，还有学java，python，在b站跟着视频，百度引擎搜索等等等等，在那期间也是遇到了很多的问题，但是也没有人帮助我，当时刚开始放假还也轻郑刷题，也只有一个学长会帮助我一些，我会问一下他题，但是我很问题还是不敢问，我不够自信，也是怕让他失望😥，感觉自己就是很差，就很多问题还是不敢问，怕他说我，很多东西都是直接独立解决，但是不得不说那个寒假我的确进步很多，也学会了自己独立解决问题。
+***
+# 扬帆启程——我的2021💖
 
-# Header 1
-## Header 2
-### Header 3
+2021年开学，因为自己已经跟其他同学差距不大了🤨，但还是不自信，也是在这一学期我接触到了网络安全。当时学长鼓励我加入实验室，但其实我不敢加入，大一上册也是不敢跟着他们去听课，就是感觉自己特别的差，怕自己跟不上，但是大一下册接触到网络安全，这个实验室要求写博客，于是我就开始了自己的博客，后来就跟着学习了😊。
+***
+# 人生若只如初见💗
 
-- Bulleted
-- List
+当时很喜欢的一句诗，是呀，要是人生能像初见那祥美好就好了，他是我的初恋💗，那一年在面试学生会的时候我遇见了他，跟他相处的两个月对我影响很大😥，我当时还以为他还会找我复合，大二的时候也还在等他，但是我等不到了，我们已经没有可能了，分开后的日子里我其实明白了很多，，他教会我很多，一路这样心态的变换😌，让我意识到其实自己也会很多不足的地方，不会去表达，害怕去表达😣。直到现在我还是只要一闭上眼睛，都会去想他，我很感谢出现在我生命中的那个人。
+***
+# 浅谈兴趣🧡
 
-1. Numbered
-2. List
+大一下册因为他开始打游戏，后来也喜欢上打游戏，平时就玩玩王者😁，上了大学后就很少看电视电影了，也看过几篇，喜欢设计，喜欢手工，我高中和大一的时候，还喜欢古诗词，但是现在就没怎么练过了，还有写钢笔字，画画，这些爱好早就销声匿迹了😶，也加入了软件学院的辩论社，打过辩论赛，很有趣，偶然看看小说，但是也很少看，影响比较深比较喜欢的小说，电视剧，2022年的开端，法医秦明写的一系列，还有日本小说家东野圭吾，平凡的世界，人生...一下子想不起来（个人喜欢看悬疑篇）新的开始💛暑假期间，参加社会实践公益活动，选了一个公安局实践，也参加了学校的公益活动网上支教，一边学习网安知识一边实践，大二上册也做了一件有意义的事，那些校园活动已经不参加了，开始好好学习，但是感觉力不从心，这个学期因为疫情就两个月，我跟着大四的学姐去兼职了一天，也去了会展中心，在这里让我看到很多我不知道的东西，然后参加了一个网安比赛，拿了奖，也了拿奖学金，感觉自己还是好菜呀😫，当然我也在这里交到了朋友，认识了师傅，还有很多大佬，寒假我开始学大数据知识，云计算等方面知识，感觉学校学的都是理论。
+***
+# 小结💚
 
-**Bold** and _Italic_ and `Code` text
+感觉自己社交好难呀，交的真正的朋友几乎没有，在大学里还是一个人独自去图书馆，一个人吃饭，一个人干着一个人的事，比较独立，然后学习方面还不足，心态要加强，培养一个阳光心态😊😊
+*** 
+# a fairly simple plan💙
 
-[Link](url) and ![Image](src)
-```
+`立一个flag`
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+* 四六级
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sparename/sparename.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+* 平均分90
+* 考驾照
+* 考研
